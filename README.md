@@ -1,0 +1,1 @@
+Ce répertoire a pour but de stocker des cheatsheet thématiques utiles pour les data sciences en Python. Il est alimenté au fil des travaux réalisés et accessibles à tous.tes. Les informations sont en générales issues de tutoriels que j'ai dû consulter pour réaliser mes travaux. 
